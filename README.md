@@ -16,6 +16,12 @@ Ghost Watcher runs quietly in the background and listens for two global shortcut
   * Drag to select any text on your screen (even from images, videos, or unselectable UI elements).
   * Extracts the exact text silently in the background, copies it straight to your clipboard, and displays a sleek non-intrusive toast notification.
 
+<img width="267" height="148" alt="image" src="https://github.com/user-attachments/assets/9af96a02-f81f-4d6d-8994-e8bfce7acaf8" />
+
+<img width="817" height="120" alt="image" src="https://github.com/user-attachments/assets/5375713b-3e5a-4938-bd17-87b98a10a44c" />
+
+<img width="637" height="660" alt="image" src="https://github.com/user-attachments/assets/a392ca3b-1fc0-41cd-ac98-848df2153b6f" />
+
 ---
 
 ## 🛠️ Requirements & Installation
@@ -28,6 +34,9 @@ Ghost Watcher runs quietly in the background and listens for two global shortcut
 
 
 pip install Pillow keyboard pyttsx3 google-generativeai
+
+
+
 🚀 Configuration & Usage
 Run the script:
 
