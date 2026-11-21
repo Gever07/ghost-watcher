@@ -1,0 +1,4 @@
+Pillow
+keyboard
+pyttsx3
+google-generativeai
